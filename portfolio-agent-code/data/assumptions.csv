@@ -1,0 +1,10 @@
+asset,expected_return,volatility,source
+Liquid Fund,0.054,0.015,"Real data (2016-2025): CRISIL Liquid Debt A-I category CAGR/volatility - see Portfolio_Methodology.xlsx 'Assumption Calculations'"
+Debt Fund,0.069,0.030,"Real data (2016-2025): corporate bond fund category CAGR/volatility - see Portfolio_Methodology.xlsx 'Assumption Calculations'"
+Gold,0.115,0.215,"Real data (2016-2025): 24K gold year-end INR price series, CAGR/volatility - see Portfolio_Methodology.xlsx 'Market Data'"
+Real Estate,0.119,0.090,"Real data (2016-2025): NHB RESIDEX house-price index plus average residential rental yield - see Portfolio_Methodology.xlsx 'Assumption Calculations'"
+Equity,0.134,0.165,"Real data (2016-2025): broad Nifty 500 TRI-style index CAGR/volatility - see Portfolio_Methodology.xlsx 'Assumption Calculations'"
+Large Cap Mutual Fund,0.129,0.165,"Real data (2016-2025): Nifty 50 TRI category CAGR/volatility - see Portfolio_Methodology.xlsx 'Assumption Calculations'"
+Mid Cap Mutual Fund,0.153,0.235,"Real data (2016-2025): Nifty Midcap 150 TRI category CAGR/volatility - see Portfolio_Methodology.xlsx 'Assumption Calculations'"
+Small Cap Mutual Fund,0.162,0.315,"Real data (2016-2025): Nifty Smallcap 250 TRI category CAGR/volatility - see Portfolio_Methodology.xlsx 'Assumption Calculations'"
+Flexi Cap Mutual Fund,0.131,0.165,"Real data (2016-2025): Flexi Cap fund category CAGR/volatility - see Portfolio_Methodology.xlsx 'Assumption Calculations'"
